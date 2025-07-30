@@ -1,4 +1,5 @@
-# 📊 Sales Performance & Customer Retention Dashboard
+#  📊 Sales Performance & Customer Retention Analysis (SQL + Power BI)
+
 
 This project focuses on optimizing sales performance and improving customer retention by extracting insights through SQL analysis and visualizing them with an interactive Power BI dashboard.
 
