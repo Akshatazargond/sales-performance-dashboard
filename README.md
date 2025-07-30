@@ -57,12 +57,6 @@ The project uses simulated CRM datasets, including:
 
 ---
 
-## Power BI Dashboard Preview
-
-*(Attach your screenshot as `dashboard_preview.png` if available)*
-
----
-
 ## Project Outcomes
 
 This end-to-end analytics project enables sales and marketing teams to:
@@ -79,7 +73,6 @@ This end-to-end analytics project enables sales and marketing teams to:
 
 - `Sales_Performance_Dashboard.pbix`: Power BI dashboard file  
 - `sales_analysis_queries.sql`: SQL queries used in the analysis  
-- `dashboard_preview.png`: Screenshot of the Power BI dashboard  
 - `README.md`: Project documentation  
 
 ---
